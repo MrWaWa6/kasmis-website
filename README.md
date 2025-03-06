@@ -6,7 +6,6 @@ Welcome to my meme coin website, [kasmis.xyz](https://kasmis.xyz). This website 
 
 ## Features
 - Responsive design
-- Portfolio section
 - Blog or project updates
 
 ## Screenshots
